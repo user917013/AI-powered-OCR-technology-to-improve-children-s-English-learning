@@ -6,7 +6,7 @@ import openai
 import re           #呼叫函數
 
 
-openai.api_key = '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'   #api_key
+openai.api_key = 'api_key'   #api_key
 
 
 def load_image(filename):                                                #翻轉校正
